@@ -3,6 +3,5 @@ fastapi
 sqlalchemy
 matplotlib
 seaborn
-sklearn
 asyncio
 numpy
