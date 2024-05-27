@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'DataFiller'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6BBD5F5EF954C389367751CC2B8FB6F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDAA0F0C07434A8690E30464F30DAC97 }}
